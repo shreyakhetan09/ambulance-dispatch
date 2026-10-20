@@ -1,0 +1,10 @@
+# Language stats should reflect the React + Express app, not stylesheet volume
+*.css linguist-vendored
+*.scss linguist-vendored
+package-lock.json linguist-generated=true
+*.png linguist-vendored
+*.jpg linguist-vendored
+*.jpeg linguist-vendored
+*.gif linguist-vendored
+*.ico linguist-vendored
+*.svg linguist-vendored
